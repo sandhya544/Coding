@@ -1,0 +1,28 @@
+1)Even or Odd numbers
+
+n=int(input())
+if n%2==0:
+    print("Even Number")
+else:
+    print("Odd Number")
+
+
+2)Greatest number
+ 
+a=int(input())
+
+b=int(input())
+
+c=int(input())
+
+if a>b and a>c:
+
+    print("a is greater")
+
+elif b>c:
+
+    print("b is greater")
+
+else:
+
+    print("c is greater")
