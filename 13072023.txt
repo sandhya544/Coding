@@ -1,0 +1,20 @@
+1)revrse a number
+n=input()
+
+print(n[::-1])
+
+o/p:
+154
+451
+
+2)pallindrome
+n=input()
+
+if(n[::]==n[::-1]):
+	print("pallindrome")
+else:
+	print("Not a pallindrome")
+
+o/p:
+MOM
+MOM
