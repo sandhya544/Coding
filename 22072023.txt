@@ -1,0 +1,15 @@
+w=540
+
+v=200
+
+tw=((4*v)-w)//2
+
+fw=v-tw
+
+print("Two:",tw)
+
+print("Four:",fw)
+
+o/p:
+Two: 130
+Four: 70
