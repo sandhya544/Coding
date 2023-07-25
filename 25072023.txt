@@ -1,0 +1,22 @@
+1)i/p:n=[7,8,9]=o/p:[7,9,0]
+
+
+N=[7,8,9]
+
+s=""
+
+for i in N:
+
+    s+=str(i)
+
+s=int(s)+1
+
+s=str(s)
+
+res=[]
+
+for i in s:
+
+    res.append(int(i))
+
+print(res)
